@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="couleurs" android:key="couleur_groupe">
+
+        <CheckBoxPreference android:key="@string/achromate_key"
+            android:title="mode achromate"
+            android:summary="Remplace les couleurs par des tons de gris."
+            android:defaultValue="@bool/valeur_def_achromate">
+        </CheckBoxPreference>
+
+    </PreferenceCategory>
+</PreferenceScreen>

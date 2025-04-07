@@ -1,0 +1,77 @@
+<puzzle size="14">
+    <paire>
+        <point colonne="4" ligne="0" />
+        <point colonne="7" ligne="8" />
+    </paire>
+
+    <paire>
+        <point colonne="7" ligne="2" />
+        <point colonne="8" ligne="5" />
+    </paire>
+
+    <paire>
+        <point colonne="2" ligne="3" />
+        <point colonne="10" ligne="11" />
+    </paire>
+
+    <paire>
+        <point colonne="5" ligne="3" />
+        <point colonne="3" ligne="4" />
+    </paire>
+
+    <paire>
+        <point colonne="6" ligne="3" />
+        <point colonne="4" ligne="4" />
+    </paire>
+
+    <paire>
+        <point colonne="7" ligne="3" />
+        <point colonne="8" ligne="11" />
+    </paire>
+
+    <paire>
+        <point colonne="10" ligne="3" />
+        <point colonne="8" ligne="10" />
+    </paire>
+
+    <paire>
+        <point colonne="0" ligne="6" />
+        <point colonne="2" ligne="12" />
+    </paire>
+
+    <paire>
+        <point colonne="2" ligne="6" />
+        <point colonne="8" ligne="6" />
+    </paire>
+
+    <paire>
+        <point colonne="3" ligne="7" />
+        <point colonne="8" ligne="7" />
+    </paire>
+
+    <paire>
+        <point colonne="0" ligne="9" />
+        <point colonne="6" ligne="10" />
+    </paire>
+
+    <paire>
+        <point colonne="3" ligne="10" />
+        <point colonne="8" ligne="12" />
+    </paire>
+
+    <paire>
+        <point colonne="4" ligne="11" />
+        <point colonne="8" ligne="13" />
+    </paire>
+
+    <paire>
+        <point colonne="9" ligne="13" />
+        <point colonne="13" ligne="13" />
+    </paire>
+
+    <paire>
+        <point colonne="2" ligne="5" />
+        <point colonne="7" ligne="6" />
+    </paire>
+
+</puzzle>

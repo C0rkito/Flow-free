@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SelectionActivity"
+    android:orientation="vertical">
+
+
+    <Button
+        android:id="@+id/retour"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="retour"
+        android:layout_margin="10dp">
+
+    </Button>
+
+
+    <ScrollView
+
+        android:id="@+id/scroll"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="10dp">
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/listePuzzle">
+
+
+            <!--
+
+            <TableRow android:gravity="center"
+                >
+
+                <LinearLayout android:orientation="vertical" android:gravity="center"
+                    android:layout_marginRight="10dp">
+                <Button
+                    android:layout_width="100dp"
+                    android:layout_height="100dp">
+
+                </Button>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="testtt">
+
+                </TextView>
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:gravity="center"
+                    android:layout_marginRight="10dp">
+                    <Button
+                        android:layout_width="100dp"
+                        android:layout_height="100dp">
+
+                    </Button>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="testtt">
+
+                    </TextView>
+                </LinearLayout>
+                <LinearLayout android:orientation="vertical" android:gravity="center"
+                    android:layout_marginRight="10dp">
+                    <Button
+                        android:layout_width="100dp"
+                        android:layout_height="100dp">
+
+                    </Button>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="testtt">
+
+                    </TextView>
+                </LinearLayout>
+
+            </TableRow>
+
+            -->
+
+
+
+        </TableLayout>
+
+
+    </ScrollView>
+
+
+</LinearLayout>

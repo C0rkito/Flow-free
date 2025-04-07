@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <color name="CaseFond">#8C8C8C</color>
+    <color name="bordure">#180437</color>
+
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pourpre">#490059</color>
+    <color name="rouge">#FFFF0000</color>
+    <color name="vert">#63ad2a</color>
+    <color name="bleu">#119fbf</color>
+    <color name="bleu_vert">#034B57</color>
+    <color name="jaune">#FFFFFF00</color>
+    <color name="orange">#FFFFA500</color>
+    <color name="marron_clair">#877416</color>
+    <color name="bleu_mer">#072480</color>
+    <color name="violet">#FF800080</color>
+    <color name="rose">#FFFFC0CB</color>
+    <color name="marron">#FF8B4513</color>
+    <color name="gris">#FF808080</color>
+    <color name="cyan">#FF00FFFF</color>
+    <color name="magenta">#FFFF00FF</color>
+    <color name="beige">#DBDBC8</color>
+    <color name="vert_claire">#4dc970</color>
+    <color name="indigo">#4B0082</color>
+    <color name="turquoise">#40E0D0</color>
+    <color name="pêche">#FFDAB9</color>
+    <color name="lavande">#E6E6FA</color>
+    <color name="argent">#C0C0C0</color>
+    <color name="or">#FFD700</color>
+    <color name="pervenche">#CCCCFF</color>
+    <color name="fuchsia">#FF00FF</color>
+    <color name="pistache">#93C572</color>
+    <color name="menthe">#98FF98</color>
+    <color name="ambre">#FFBF00</color>
+    <color name="prune">#8E4585</color>
+    <color name="marine">#000080</color>
+    <color name="jaune_claire">#FFFFE0</color>
+    <color name="mauve">#E0B0FF</color>
+    <color name="ocre">#CC7722</color>
+    <color name="safran">#F4C430</color>
+    <color name="gris_claire">#D3D3D3</color>
+    <color name="vert_forestier">#228B22</color>
+    <color name="bleu_ciel">#87CEEB</color>
+
+
+    <color name="gris_2">#F9F9F9</color>
+    <color name="gris_3">#F2F2F2</color>
+    <color name="gris_4">#EAEAEA</color>
+    <color name="gris_5">#E3E3E3</color>
+    <color name="gris_6">#DCDCDC</color>
+    <color name="gris_7">#D5D5D5</color>
+    <color name="gris_8">#CECECE</color>
+    <color name="gris_9">#C7C7C7</color>
+    <color name="gris_10">#C0C0C0</color>
+    <color name="gris_11">#B9B9B9</color>
+    <color name="gris_12">#B3B3B3</color>
+    <color name="gris_13">#ACACAC</color>
+    <color name="gris_14">#A5A5A5</color>
+    <color name="gris_15">#9E9E9E</color>
+    <color name="gris_16">#979797</color>
+    <color name="gris_17">#919191</color>
+    <color name="gris_18">#8A8A8A</color>
+    <color name="gris_19">#838383</color>
+    <color name="gris_20">#7D7D7D</color>
+    <color name="gris_21">#767676</color>
+    <color name="gris_22">#707070</color>
+    <color name="gris_23">#696969</color>
+    <color name="gris_24">#636363</color>
+    <color name="gris_25">#5C5C5C</color>
+    <color name="gris_26">#565656</color>
+    <color name="gris_27">#4F4F4F</color>
+    <color name="gris_28">#494949</color>
+    <color name="gris_29">#424242</color>
+    <color name="gris_30">#3C3C3C</color>
+    <color name="gris_31">#363636</color>
+    <color name="gris_32">#2F2F2F</color>
+    <color name="gris_33">#292929</color>
+    <color name="gris_34">#222222</color>
+    <color name="gris_35">#1C1C1C</color>
+    <color name="gris_36">#161616</color>
+    <color name="gris_37">#0F0F0F</color>
+    <color name="gris_38">#0A0A0A</color>
+    <color name="gris_39">#050505</color>
+
+
+
+
+
+
+
+    <integer-array name="point_couleur">
+        <item>@color/rouge</item>
+        <item>@color/vert</item>
+        <item>@color/bleu</item>
+        <item>@color/jaune</item>
+        <item>@color/orange</item>
+        <item>@color/violet</item>
+        <item>@color/rose</item>
+        <item>@color/marron</item>
+        <item>@color/magenta</item>
+        <item>@color/beige</item>
+        <item>@color/pourpre</item>
+        <item>@color/marron_clair</item>
+        <item>@color/cyan</item>
+        <item>@color/vert_claire</item>
+        <item>@color/bleu_vert</item>
+        <item>@color/bleu_mer</item>
+        <item>@color/black</item>
+        <item>@color/white</item>
+        <item>@color/indigo</item>
+        <item>@color/turquoise</item>
+        <item>@color/pêche</item>
+        <item>@color/lavande</item>
+        <item>@color/argent</item>
+        <item>@color/or</item>
+        <item>@color/pervenche</item>
+        <item>@color/fuchsia</item>
+        <item>@color/pistache</item>
+        <item>@color/menthe</item>
+        <item>@color/ambre</item>
+        <item>@color/prune</item>
+        <item>@color/marine</item>
+        <item>@color/jaune_claire</item>
+        <item>@color/mauve</item>
+        <item>@color/ocre</item>
+        <item>@color/safran</item>
+        <item>@color/gris_claire</item>
+        <item>@color/vert_forestier</item>
+        <item>@color/bleu_ciel</item>
+    </integer-array>
+
+
+    <integer-array name="point_couleur_achromate">
+        <item>@color/black</item>
+        <item>@color/white</item>
+        <item>@color/gris_22</item>
+        <item>@color/gris_31</item>
+        <item>@color/gris_7</item>
+        <item>@color/gris_36</item>
+        <item>@color/gris_11</item>
+        <item>@color/gris_15</item>
+        <item>@color/gris_8</item>
+        <item>@color/gris_19</item>
+        <item>@color/gris_2</item>
+        <item>@color/gris_3</item>
+        <item>@color/gris_17</item>
+        <item>@color/gris_5</item>
+        <item>@color/gris_9</item>
+        <item>@color/gris_25</item>
+        <item>@color/gris_12</item>
+        <item>@color/gris_13</item>
+        <item>@color/gris_14</item>
+        <item>@color/gris_16</item>
+        <item>@color/gris_27</item>
+        <item>@color/gris_18</item>
+        <item>@color/gris_4</item>
+        <item>@color/gris_20</item>
+        <item>@color/gris_21</item>
+        <item>@color/gris_23</item>
+        <item>@color/gris_6</item>
+        <item>@color/gris_24</item>
+        <item>@color/gris_29</item>
+        <item>@color/gris_26</item>
+        <item>@color/gris_28</item>
+        <item>@color/gris_30</item>
+        <item>@color/gris_10</item>
+        <item>@color/gris_32</item>
+        <item>@color/gris_33</item>
+        <item>@color/gris_34</item>
+        <item>@color/gris_35</item>
+        <item>@color/gris_37</item>
+        <item>@color/gris_38</item>
+        <item>@color/gris_39</item>
+    </integer-array>
+
+
+
+
+
+
+
+</resources>

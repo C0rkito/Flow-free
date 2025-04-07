@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <bool name="valeur_def_achromate">false </bool>
+</resources>

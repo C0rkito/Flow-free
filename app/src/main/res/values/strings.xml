@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Flow Free</string>
+    <string name="puzzle_path">puzzles/</string>
+    <string name="achromate_key">achromate</string>
+</resources>
